@@ -31,7 +31,7 @@ Now you should see a repository named `brick-by-brick-amld` under your own direc
 ## Create a personal cluster to your workspace.
 1. Click on the `Compute` tab in the navigation menu to the left.
 2. Click on Create compute and choose the following settings:
-3. Choose the `sds-compute-policy` Policy
+3. Choose the `amld-compute-policy` Policy
 3. Make sure the `Single user access` is under your name
 4. Click on `Create Cluster`
 
