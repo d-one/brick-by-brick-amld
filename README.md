@@ -1,5 +1,5 @@
 # brick-by-brick-amld
-Repository for the D ONE databricks brick-by-brick workshop
+Repository for the D ONE / Databricks brick-by-brick workshop, hosted at EPFL AMLD 2024 in Lausanne, Switzerland.
 
 # Content
 1. Setup Workspace
@@ -17,7 +17,7 @@ Repository for the D ONE databricks brick-by-brick workshop
 
 
 # 1. Setup Workspace
-Login to the [workspace](https://adb-1451829595406012.12.azuredatabricks.net/?o=1451829595406012#) using the email address you used to sign-up for the workshop.
+Login to the [workspace]() using the email address provided for the workshop.
 
 ## Adding the repository
 Adding the repository to your workspace: 
@@ -26,7 +26,7 @@ Adding the repository to your workspace:
 3. Click on `Add Repo` and paste this [URL](https://github.com/d-one/brick-by-brick) into `Git repository` 
 4. Click on `Create Repo` 
 
-Now you should see a repository named `brick-by-brick` under your own directory.
+Now you should see a repository named `brick-by-brick-amld` under your own directory.
 
 ## Create a personal cluster to your workspace.
 1. Click on the `Compute` tab in the navigation menu to the left.
