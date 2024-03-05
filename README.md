@@ -23,7 +23,7 @@ Login to the [workspace]() using the email address provided for the workshop.
 Adding the repository to your workspace: 
 1. Click on `Workspace` in the navigation menu to the left.
 2. Click on the directory `Repos` and then on the directory with your email address (If it does not exist, create a new directory named like your email address).
-3. Click on `Add Repo` and paste this [URL](https://github.com/d-one/brick-by-brick) into `Git repository` 
+3. Click on `Add Repo` and paste this [URL](https://github.com/d-one/brick-by-brick-amld) into `Git repository` 
 4. Click on `Create Repo` 
 
 Now you should see a repository named `brick-by-brick-amld` under your own directory.
